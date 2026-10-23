@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-censys",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Censys MCP — internet-scan search over the Censys Platform API (censys.com)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-8ad3978a24a795988ec4cd62683eb90b5539f5aff39927d635ad88677377fc2e",
-    "sourceCommit": "5d8d3a58a457b8464c117515d81b8b6ecb53fdfb"
+    "sourceHash": "v1-8003eef087a9150084602ba15e71913b1b709e64de40409713c6878526aeb0ab",
+    "sourceCommit": "70a4e816a9195016cd4af92dca2019485d4c3865"
   }
 }
